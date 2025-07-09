@@ -130,7 +130,7 @@ public class SimpleCalendarApp extends JFrame {
         redBoxPanel.add(label);
 
         label.setForeground(Color.WHITE); // Text color white
-        label.setFont(new Font("Arial", Font.BOLD, 24)); // Font for date, day, year
+        label.setFont(new Font("Arial", Font.BOLD, 55)); // Font for date, day, year
     }
 
     /**
